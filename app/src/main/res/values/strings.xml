@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TarjetaSDAndroid</string>
+    <string name="txt_nombre_archivo">Ingrese el nombre del archivo</string>
+    <string name="txt_contenido_archivo">Ingrese el contenido</string>
+    <string name="btn_consultar">Consultar</string>
+    <string name="btn_guardar">Guardar</string>
+</resources>
